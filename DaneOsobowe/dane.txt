@@ -1,0 +1,6 @@
+Oliwia,Kamiñska,1992-03-16,
+Zofia,Leszczyñska,1980-11-07,777888992
+Aleksandra,Grabowska,1995-08-30,777888993
+Bartek,Szymañski,1994-01-02,777888994
+Mateusz,Maciejewski,1989-05-13,
+Jacek,Urbañski,1990-09-09,777888996
